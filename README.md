@@ -1,1 +1,1 @@
-# QuantitativeFinanceandRiskManagement
+# Quantitative Finance and Risk Management
