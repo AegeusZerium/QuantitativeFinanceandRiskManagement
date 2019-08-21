@@ -4,7 +4,7 @@
 
 The Notebook is about the most popular mathematical model used in the broad field of finance and its use in derivative pricing.
 
-The programming language and scientific libraries used for visualization are:
+The programming language and scientific libraries used for visualization and computing are:
 
 - Python 3.7.3
 - Numpy 1.16.2
