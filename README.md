@@ -32,6 +32,6 @@ The programming language and scientific libraries used for visualization and com
 - Python 3.7.3
 - Numpy 1.16.2
 - Matplotlib 3.0.3
-- yfinance 0.1.45
+- Yfinance 0.1.45
 - Mystic 0.3.4
 
