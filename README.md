@@ -23,7 +23,7 @@ The programming language and scientific libraries used for visualization and com
 - Matplotlib 3.0.3
 - Scipy 1.2.1
 
-## Calibration of the SABR Volaility Model
+## Calibration of the SABR Volatility Model
 
 In this Notebook we calibrate the SABR volatility model using hypothetical market data.
 
